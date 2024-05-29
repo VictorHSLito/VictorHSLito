@@ -9,7 +9,7 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=VictorHSLito&layout=compact&langs_count=8&theme=swift)
 
 ## 🌟 Projetos em Destaque
-![Projeto Outer-Space](https://github-readme-stats.vercel.app/api/pin/?username=VictorHSLito&repo=Outer-Space&theme=radical)
+[![Projeto Outer-Space](https://github-readme-stats.vercel.app/api/pin/?username=VictorHSLito&repo=Outer-Space&theme=radical)](https://github.com/VictorHSLito/Outer-Space)
 
 ---
 
