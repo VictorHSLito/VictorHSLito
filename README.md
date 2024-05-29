@@ -1,8 +1,8 @@
-### Olá 🖐! Eu sou o Victor e seja muito bem-vindo ao meu perfil 😉!
+# Olá 🖐! Eu sou o Victor e seja muito bem-vindo ao meu perfil 😉!
 
-- 💻 Atualmente estudando sobre Front-end e Back-end
-- 📚 Graduando em Engenharia de Software
-- 🎮 Apaixonado por jogos
+- 💻 Atualmente estou me especializando em **C**, **Python** e futuramente em **JavaScript**
+- 📚 Estou fazendo graduação em **Engenharia de Software** e **Ciência da Computação**
+- 🎲 Apaixonado por programar e testar minhas habilidades
 
 <div>
 <a href="https://github.com/VictorHSLito/github-readme-stats">
