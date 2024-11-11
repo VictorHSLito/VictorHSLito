@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VictorHSLito.visitor-badgee&color=green&style=flat-square">
-
 # Hello There 🖐! I'm Victor Hugo and be welcome to my profile 😉!
 <p align="left">
   <a href="https://readme-typing-svg.herokuapp.com/?color=0353B1&lines=Software+Engineer+/+Computer+Scientist;Challenges+are+part+of+my+daily+life;Always+willing+to+learn)]"></a> 
