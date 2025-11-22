@@ -1,43 +1,52 @@
-# Hello There 🖐! I'm Victor Hugo and be welcome to my profile 😉!
-<p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com/?color=0353B1&lines=Software+Engineer+/+Computer+Scientist;Challenges+are+part+of+my+daily+life;Always+willing+to+learn)]"></a> 
-</p>
+<div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0353B1&lines=Software+Engineer+/+Computer+Scientist;Challenges+are+part+of+my+daily+life;Always+willing+to+learn)](https://git.io/typing-svg)
+## Hello, Welcome!
 
-## 📖 My Goals
-- 💻 At moment I'm focused on learning theses languages: **C**, **Python** and **JavaScript**
-- 📚 I'm studying **Software Engineering** and **Computer Science**
-- 🎲 Passionate about programming and testing my skills
+I'm a **Software Engineering student** who seeks to understand principles of computation and to build impactful solutions through code. 
 
-## 📈 Github Profile Stats
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=VictorHSLito&theme=swift&hide_border=false&include_all_commits=false&show_icons=true&count_private=false" height=200>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHSLito&theme=swift&hide_border=false" height=200>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHSLito&layout=compact&langs_count=8&hide_border=false&theme=swift" height=220>
 </div>
 
-## 💻 Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height=35>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=35>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"height=35>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=35>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=35>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=35>
-</div>
+---
+### My Focus
 
-## 🌟 Featured Projects
+Right now, I'm working on:
 
-<div align="center">
-  
-  [![Projeto Outer-Space](https://github-readme-stats.vercel.app/api/pin/?username=VictorHSLito&repo=Outer-Space&theme=radical)](https://github.com/VictorHSLito/Outer-Space)
-  
-</div>
+**Backend Mastery**: Deepening expertise in **Java**, **Kotlin** and **Python** to strengthening my foundations and gaining a solid understanding to build robusts backends systems.
 
-## 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vhugo_lito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-lito-a917591ab/) 
+**Frontend**: Currently also expanding my skill set to the front-end, focusing on JavaScript fundamentals to bridge the gap between robust back-ends and engaging user experiences.
 
 ---
 
-### Thank you for visiting my profile! 😄
+### My Tech Stack
+
+
+<div align="center">
+
+<p class="stack-icons">
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="42" alt="kotlin logo"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"/>
+  <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="javascript logo"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"/>
+</p>
+
+</div>
+
+---
+
+### Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/victor-lito" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn logo"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+<p>Thanks for stopping by!</p>
+<div>
