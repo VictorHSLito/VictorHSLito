@@ -6,7 +6,6 @@ I'm a **Software Engineering student** who seeks to understand principles of com
 
 </div>
 
----
 ### My Focus
 
 Right now, I'm working on:
@@ -15,10 +14,8 @@ Right now, I'm working on:
 
 **Frontend**: Currently also expanding my skill set to the front-end, focusing on JavaScript fundamentals to bridge the gap between robust back-ends and engaging user experiences.
 
----
 
 ### My Tech Stack
-
 
 <div align="center">
 
@@ -34,8 +31,6 @@ Right now, I'm working on:
 </p>
 
 </div>
-
----
 
 ### Connect with Me
 
