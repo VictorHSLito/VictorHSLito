@@ -6,6 +6,8 @@ I'm a **Software Engineering student** who seeks to understand principles of com
 
 </div>
 
+<hr style="border: 0; height: 1px; background: #5b5b5c; margin: 10px 0;"/>
+
 ### My Focus
 
 Right now, I'm working on:
@@ -14,6 +16,7 @@ Right now, I'm working on:
 
 **Frontend**: Currently also expanding my skill set to the front-end, focusing on JavaScript fundamentals to bridge the gap between robust back-ends and engaging user experiences.
 
+<hr style="border: 0; height: 1px; background: #5b5b5c; margin: 20px 0;"/>
 
 ### My Tech Stack
 
@@ -32,6 +35,8 @@ Right now, I'm working on:
 
 </div>
 
+<hr style="border: 0; height: 1px; background: #5b5b5c; margin: 20px 0;"/>
+
 ### Connect with Me
 
 <div align="center">
@@ -40,7 +45,7 @@ Right now, I'm working on:
   </a>
 </div>
 
----
+<hr style="border: 0; height: 1px; background: #5b5b5c; margin: 20px 0;"/>
 
 <div align="center">
 <p>Thanks for stopping by!</p>
